@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/485dfabe-a234-4bc1-8dbe-b0fbf4095bc7)LABORATORIO 6  
+LABORATORIO 6  
 EJERCICIO 1
 
 <p align="center">
